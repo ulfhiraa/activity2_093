@@ -18,4 +18,3 @@ int main(){ //begin
     //Display "Luasnya = " + Luas
     cout << "Luasnya = " << Luas;
 } //end
-
